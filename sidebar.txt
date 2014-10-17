@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csm:home|Door43 (csm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csm|d43-csm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csm/archive/master.zip|d43-csm.zip]]
+
+**Recent Changes**
+{{changes>ns = csm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csm|Ethnologue data]]
+
